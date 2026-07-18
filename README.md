@@ -47,6 +47,14 @@ The dataset contains four news categories:
 | 3     | Business             |
 | 4     | Science & Technology |
 
+
+## Dataset
+
+The dataset used for this project is the AG News Dataset.
+
+Download it from:
+https://www.kaggle.com/datasets/amananandrai/ag-news-classification-dataset
+
 ---
 
 ## 🔄 Project Workflow
